@@ -34,4 +34,4 @@
 
 Pull requests, issues and suggestions are warmly welcome.
 
-Feel free to contact me [@amrmoussa777 Email](amrmoussa2016@icloud.com).
+Feel free to contact me [@amrmoussa777](https://amrmoussa777.github.io/).

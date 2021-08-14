@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="Logo/SAExtension.png" width="300" max-width="50%" alt="Lines Sorter" />
+    <img src="Logo/SAExtension.png" width="300" max-width="50%" alt="SA-Alginment" />
 </p>
 
 # SA-Alignment

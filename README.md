@@ -4,7 +4,6 @@
 
 # SA-Alignment
 
-[![Travis Status](https://travis-ci.org/V8tr/LinesSorter-Xcode-Extension.svg?branch=master)](https://travis-ci.org/V8tr/LinesSorter-Xcode-Extension)
 [![Swift 5](https://img.shields.io/badge/swift-5-orange.svg?style=flat)](#)
 [![@Amr Moussa](https://img.shields.io/github/followers/amrmoussa777?style=social)](https://amrmoussa777.github.io/)
 
